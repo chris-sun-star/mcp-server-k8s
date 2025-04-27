@@ -1,7 +1,9 @@
 # mcp-server-k8s
 A simple MCP server for Kubernetes
 
-Uploading Screen Recording 2025-04-27 at 16.13.43.mov…
+
+https://github.com/user-attachments/assets/e36d8048-7abd-4529-8d78-086ae9cadea9
+
 
 
 
