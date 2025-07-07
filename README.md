@@ -24,3 +24,5 @@ By configuring the following contents in `~/Library/Application Support/Claude/c
   }
 }
 ```
+
+This mcp server is certified by MCPHub, if you are interested, you may have a look on [MCPHub](https://mcphub.com/mcp-servers/chris-sun-star/mcp-server-k8s)
